@@ -36,4 +36,4 @@ function run(jobs, concurrentWorkers) {
 	});
 }
 
-run(jobs, 16);
+run(jobs, 8);
